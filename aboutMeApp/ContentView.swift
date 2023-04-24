@@ -80,7 +80,7 @@ struct ContentView: View {
                     .tint(Color("Color 1"))
                     .fontWeight(.bold)
                 
-                            
+                    //button to learn about my love for plants
                     Button("plants") {
                         title = "My Love for Plants"
                         fact = "I absolutely love plants! \n \n Funny enough I really love nature despite living in the city."
